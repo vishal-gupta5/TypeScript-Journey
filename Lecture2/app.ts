@@ -19,5 +19,12 @@ const person: {
   skills: ["React.js", "Node.js", "MongoDB", "Express.js"],
 };
 
-console.log(person.firstName);
+// Arrays
+let favoriteLanguage: string[];
+favoriteLanguage = ["Hindi", "English"];
 
+let bioData: any[];
+bioData = ["Vishal Gupta", 12, true]; // Fixed array of two types 0 -> numbers, 1 -> string
+
+
+console.log(person.firstName);
