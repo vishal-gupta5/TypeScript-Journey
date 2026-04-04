@@ -5,7 +5,7 @@ function combine(a: number | string, b: number | string) {
   if (typeof a === "number" && typeof b === "number") {
     result = a + b;
   } else {
-    result = a.toString() + b.toString;
+    result = a.toString() + b.toString();
   }
   return result;
 }
