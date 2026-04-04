@@ -4,8 +4,8 @@ function combine(a: number | string, b: number | string) {
   let result;
   if (typeof a === "number" && typeof b === "number") {
     result = a + b;
-  } else if (typeof a === "string" && typeof b === "string") {
-    result = a + b;
+  } else {
+    result = a.toString() + b.toString;
   }
   return result;
 }
