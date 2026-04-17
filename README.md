@@ -1,4 +1,4 @@
-﻿# TypeScript-Journey
+﻿# TypeScript-Journey 
 
 - Add Two Integers
 - Create an Object in TypeScript
