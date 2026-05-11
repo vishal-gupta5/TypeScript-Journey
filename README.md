@@ -8,4 +8,4 @@
 - Create an Union and How to use of it
 - Create a Literal types
 - How to declare Type Alias or custom type
- 
+     
